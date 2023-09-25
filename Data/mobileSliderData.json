@@ -9,7 +9,7 @@
 
            "text": "ENERGY STAR® qualified Premium CHOICE fans: high efficiency motors and lighting for energy savings without compromising performance. Look for the logo for the most efficient choice.",
            "description": "Energy Efficient",
-           "image": "./assest/icons/Energy_Star_logo.png"
+           "image": "../assest/icons/Energy_Star_logo.png"
        },
        {
            "text": "Premium CHOICE Series fans: easy installation for new or retrofit projects. Adjustable hanger bars, versatile wiring options, and dust-guard packaging for hassle-free installation.",
@@ -19,7 +19,7 @@
        {
            "text": "S&P's Premium CHOICE fans come standard with the industry's longest warranty. AC models include a 5-year warranty, while DC models have a 6-year warranty.",
            "description": "Longest Warranty",
-           "image": "./assest/icons/warranty.png"
+           "image": "../assest/icons/warranty.png"
        }
      ]
    }
