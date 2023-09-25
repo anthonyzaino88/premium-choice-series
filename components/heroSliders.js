@@ -17,7 +17,7 @@ class HeroSlider extends HTMLElement {
     
 
     // Fetch the slider data
-    fetch('./Data/sliderData.json')
+    fetch('../Data/sliderData.json')
       .then(response => response.json())
       .then(data => {
         this.sliderData = data.slider;
