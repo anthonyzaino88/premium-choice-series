@@ -12,7 +12,7 @@ class HeroSlider extends HTMLElement {
            // Load external styles
   const stylesLink = document.createElement('link');
   stylesLink.setAttribute('rel', 'stylesheet');
-  stylesLink.setAttribute('href', '/styles/slider.css'); // Adjust the path as needed
+  stylesLink.setAttribute('href', './styles/slider.css'); // Adjust the path as needed
   this.shadowRoot.appendChild(stylesLink);
     
 
