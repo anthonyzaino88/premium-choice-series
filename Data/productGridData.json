@@ -1,0 +1,58 @@
+[
+    {
+      "title": "PCXP - AC Motor Models",
+      "descriptionTitle": "Features",
+      "descriptionOne": "Extremey quiet operatrion 0.3 to 0.5 sones",
+      "descriptionTwo": "Redesigned blower for increased efficiency and lower sound",
+      "descriptionThree": "Seamless Plug-&-Play integration",
+      "descriptionFour": "Select models available as Contractor Packs (packs of 4)",
+      "image": "https://www.premiumchoiceseries.com/images/product/photo/PCD110XP.png",
+      "link" : "./models/pc.html"
+    },
+    {
+      "title": "PCD - DC Motor Models",
+      "descriptionTitle": "Features",
+      "descriptionOne": "Ultra-Low Profile Design to fit in the smallest wall cavities",
+      "descriptionTwo": "Brushless DC motor for long life ",
+      "descriptionThree": "High/Low speed delay timer",
+      "descriptionFour": "Built in control module with motion, humidity, speed control, and delay timer (options vary per model)",
+      "descriptionFive": "Motion grille(purchased separately) is required for motion sensing capability",
+      "image": "https://www.premiumchoiceseries.com/images/product/photo/PC110XP.webp",
+      "link" : "https://www.premiumchoiceseries.com/models/pcd.html"
+    },
+    {
+      "title": "PCLPD100XHP",
+      "descriptionTitle": "Features",
+      "descriptionOne": "Extremey quiet operatrion 0.3 to 1.5 sones",
+      "descriptionTwo": "Ultra-Quiet Operation as low as 0.6 sones",
+      "descriptionThree": "DC Motor for high efficiency with auto-flow technology",
+      "descriptionFour": "Built-in Humidity Sensing and Continuous low speed capability",
+      "image": "https://www.premiumchoiceseries.com/images/product/photo/pclpd100xhpv1.webp",
+      "link": "https://www.premiumchoiceseries.com/models/pcd.html"
+    },
+    {
+      "title": "PCV - Value Models",
+      "descriptionTitle": "Features",
+      "descriptionOne": "Quiet operatrion 0.3 to 1.5 sones",
+      "descriptionTwo": "4” duct connector with built-in backdraft damper",
+      "descriptionThree": "Available as Contractor Packs (packs of 4)",
+      "image": "https://www.premiumchoiceseries.com/images/product/photo/pcd80xh.png",
+      "link" : "https://www.premiumchoiceseries.com/models/pcv.html"
+    },
+
+    {
+        "title": "PCLPXP - Low Profile Models",
+        "descriptionTitle": "Features",
+        "descriptionOne": "Ultra-Low Profile Design to fit in the smallest wall cavities",
+        "descriptionTwo": "Ultra-Quiet operation of .7 to 1.5 sones",
+        "descriptionThree": "Available as Contractor Packs (Pack of 4)",
+        "descriptionFour": "No ceiling radiation damper is required when wall mounted, saving time and money",
+        "descriptionFive": "One SKU can be kept on hand for both wall and ceiling mounted applications to consolidate warehouse space.",
+        "image": "https://www.premiumchoiceseries.com/images/product/photo/pclpd100xhp.webp",
+        "link" : "https://www.premiumchoiceseries.com/models/pclp.html"
+      } 
+  
+
+
+  ]
+  

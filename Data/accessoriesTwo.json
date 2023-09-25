@@ -1,0 +1,119 @@
+[
+
+
+{
+    "partID": "GRA-100",
+    "category" :"Aluminum Wall Grille",
+    "description": "5416435500 4 IN EXT FIXED ALUM GRILL",
+    "image" : "https://www.premiumchoiceseries.com/images/product/options/gra.jpg"
+  },
+
+  {
+    "partID": "GRA-150",
+    "category" :"Aluminum Wall Grille",
+    "description": "5416437100 6 IN EXT FIXED ALUM GRILL",
+    "image" : "https://www.premiumchoiceseries.com/images/product/options/gra.jpg"
+  },
+
+  {
+    "partID": "PER-100W",
+    "category" :"Plastic Louver Shutter",
+    "description": "4IN KIT: TD100X1,  PG-100, PER-100W",
+    "image" : ""
+  },
+
+  {
+    "partID": "PER-150W",
+    "category" :"Plastic Louver Shutter",
+    "description": "6IN KIT: TD-150, PG-150, PER-150W",
+    "image" : "https://www.premiumchoiceseries.com/images/product/options/per-w.jpg"
+  },
+
+  {
+    "partID": "SR6-4",
+    "category" :"Duct Transition Piece",
+    "description": "6-4 INCREASER/REDUCER"
+  
+  },
+
+  {
+    "partID": "RC-4",
+    "category" :"Roof Cap",
+    "description": "4\" ROOF CAP",
+    "image" : "https://www.premiumchoiceseries.com/images/product/options/rc.jpg"
+  },
+
+  {
+    "partID": "RC-6",
+    "category" :"Roof Cap",
+    "description": "6\" ROOF CAP",
+    "image" : "https://www.premiumchoiceseries.com/images/product/options/rc.jpg"
+  },
+
+  {
+    "partID": "DC-4",
+    "category" :"Duct Connector",
+    "description": "4IN DUCT CONNECTOR",
+    "image" : "https://www.premiumchoiceseries.com/images/product/options/dc.jpg"
+  },
+
+
+  {
+    "partID": "SRT-30",
+    "category" :"Rotary Spring Wound Timer",
+    "description": "ROTARY SPRING WOUND TIMER",
+    "image" : "https://www.premiumchoiceseries.com/images/product/options/srt-30.jpg"
+  },
+
+  {
+    "partID": "FLTD-60",
+    "category" :"Fan/ Light Delay Timer Switch",
+    "description": "T1517-120W FAN/LIGHT DELAY TIMER SWITCH ",
+    "image" : "https://www.premiumchoiceseries.com/images/product/options/fltd-60.jpg"
+  },
+
+  {
+    "partID": "EPBT-60",
+    "category" :"Electronic Push Button Timer",
+    "description": "LTB60-1LZ ELECTRONIC PUSH BUTTON TIMER",
+    "image" : "https://www.premiumchoiceseries.com/images/product/options/epbt-60.jpg"
+  },
+
+  
+  {
+    "partID": "FT622",
+    "category" :"Ashrae 62.2 Bath Fan Ventilation Control",
+    "description": "ASHRAE 62.2 BATH FAN VENTILATION CONTROL",
+    "image" : "https://www.premiumchoiceseries.com/images/product/options/ft622.jpg"
+  },
+
+  {
+    "partID": "FT247",
+    "category" :"Programmable Fan Timer",
+    "description": "PROGRAMMABLE FAN TIMER 24 HOUR/7DAY",
+    "image" : "https://www.premiumchoiceseries.com/images/product/options/ft247.jpg"
+  },
+
+  
+  {
+    "partID": "PC3S",
+    "category" :"3 Switch Control",
+    "description": "3 SWITCH CONTROL FOR PC FAN OPTIONS",
+    "image" : "https://www.premiumchoiceseries.com/images/product/options/pc3s.jpg"
+  },
+
+  {
+    "partID": "MD4",
+    "category" :"Motorized Damper",
+    "description": "42\" X 4\" HD EXTR ALUM DMPR W MOTOR"
+ 
+  },
+
+  {
+    "partID": "MD6",
+    "category" :"Motorized Damper",
+    "description": "MOTORIZED DAMPER 6IN 24V"
+ 
+  }
+
+]

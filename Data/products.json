@@ -1,0 +1,134 @@
+{
+    "PremiumChoiceSeries": {
+      "ACMotorModels": {
+        "products": [
+          {
+            "partID": "PC50XP",
+            "image": "image_url_for_PC50XP",
+            "description": "Product Description for PC50XP",
+            "accessories": [ ],
+            "submittal": "https://www.premiumchoiceseries.com/documents/Submittal/sub-pc50xp.pdf",
+            "IOM": "https://www.premiumchoiceseries.com/documents/IOM/iom-pc50xp.pdf",
+            "brochure": "https://www.premiumchoiceseries.com/documents/Brochure/Premium-CHOICE-Series.pdf",
+            "flyer": "https://www.premiumchoiceseries.com/documents/Flyer/PC50XP.pdf"
+          },
+          {
+            "partID": "PC80XP",
+            "image": "image_url_for_PC80XP",
+            "description": "Product Description for PC80XP",
+            "accessories": [],
+            "submittal": "https://www.premiumchoiceseries.com/documents/Submittal/sub-pc80xp.pdf",
+            "IOM": "https://www.premiumchoiceseries.com/documents/IOM/iom-pcxp.pdf",
+            "brochure": "https://www.premiumchoiceseries.com/documents/Brochure/Premium-CHOICE-Series.pdf",
+            "flyer": "https://www.premiumchoiceseries.com/documents/Flyer/PCXP.pdf"
+          },
+          {
+            "partID": "PC110XP",
+            "image": "image_url_for_PC110XP",
+            "description": "Product Description for PC110XP",
+            "accessories": [],
+            "submittal": "https://www.premiumchoiceseries.com/documents/Submittal/sub-pc110xp.pdf",
+            "IOM": "https://www.premiumchoiceseries.com/documents/IOM/iom-pcxp.pdf",
+            "brochure": "https://www.premiumchoiceseries.com/documents/Brochure/Premium-CHOICE-Series.pdf",
+            "flyer": "https://www.premiumchoiceseries.com/documents/Flyer/PCXP.pdf"
+          },
+          {
+            "partID": "PC150XP",
+            "image": "image_url_for_PC150XP",
+            "description": "Product Description for PC150XP",
+            "accessories": [],
+            "submittal": "https://www.premiumchoiceseries.com/documents/Submittal/sub-pc150xp.pdf",
+            "IOM": "https://www.premiumchoiceseries.com/documents/IOM/iom-pcxp.pdf",
+            "brochure": "https://www.premiumchoiceseries.com/documents/Brochure/Premium-CHOICE-Series.pdf",
+            "flyer": "https://www.premiumchoiceseries.com/documents/Flyer/PCXP.pdf"
+          }
+        ]
+      }
+      
+    },
+    "ValueSeriesModels": {
+        "products": [
+          {
+            "partID": "PCV50",
+            "image": "image_url_for_PCV50",
+            "description": "Product Description for PCV50",
+            "accessories": [],
+            "submittal": "https://www.premiumchoiceseries.com/documents/Submittal/sub-pcv.pdf",
+            "IOM": "https://www.premiumchoiceseries.com/documents/IOM/iom-pcv.pdf",
+            "brochure": "https://www.premiumchoiceseries.com/documents/Brochure/Premium-CHOICE-Series.pdf"
+          
+          },
+          {
+            "partID": "PCV80",
+            "image": "image_url_for_PCV80",
+            "description": "Product Description for PCV80",
+            "accessories": [],
+            "submittal": "https://www.premiumchoiceseries.com/documents/Submittal/sub-pcv.pdf",
+            "IOM": "https://www.premiumchoiceseries.com/documents/IOM/iom-pcv.pdf",
+            "brochure": "https://www.premiumchoiceseries.com/documents/Brochure/Premium-CHOICE-Series.pdf"
+          }
+        ]
+      },
+
+      "DCMotorModels": {
+        "products": [
+          {
+            "partID": "PCD80XHP",
+            "image": "image_url_for_PCD80XHP",
+            "description": "Product Description for PCD80XHP",
+            "accessories": [],
+            "submittal": "https://www.premiumchoiceseries.com/documents/Submittal/sub-PCD80XHP.pdf",
+            "IOM": "https://www.premiumchoiceseries.com/documents/IOM/iom-PCD80XHP.pdf",
+            "brochure": "https://www.premiumchoiceseries.com/documents/Brochure/Premium-CHOICE-Series.pdf",
+            "flyer": "https://www.premiumchoiceseries.com/documents/Flyer/PCD80XHP.pdf"
+          },
+          {
+            "partID": "PCD110XP",
+            "image": "image_url_for_PCD110XP",
+            "description": "Product Description for PCD110XP",
+            "accessories": [],
+            "submittal": "https://www.premiumchoiceseries.com/documents/Submittal/sub-pcd110xp.pdf",
+            "IOM": "https://www.premiumchoiceseries.com/documents/IOM/iom-pcd110xp.pdf",
+            "brochure": "https://www.premiumchoiceseries.com/documents/Brochure/Premium-CHOICE-Series.pdf",
+            "flyer": "https://www.premiumchoiceseries.com/documents/Flyer/PCD110XP.pdf"
+          },
+          {
+            "partID": "PCLPD100XHP",
+            "image": "image_url_for_PCLPD100XHP",
+            "description": "Product Description for PCLPD100XHP",
+            "accessories": [],
+            "submittal": "https://www.premiumchoiceseries.com/documents/Submittal/sub-pclpd100xhp.pdf",
+            "IOM": "https://www.premiumchoiceseries.com/documents/IOM/iom-pclpd100xhp.pdf",
+            "brochure": "https://www.premiumchoiceseries.com/documents/Brochure/Premium-CHOICE-Series.pdf",
+            "flyer": "https://www.premiumchoiceseries.com/documents/Flyer/PCLPD100XHP-Flyer.pdf"
+          }
+        ]
+      },
+
+      "LowProfileModels": {
+        "products": [
+          {
+            "partID": "PCLP100XP",
+            "image": "image_url_for_PCLP100XP",
+            "description": "Product Description for PCLP100XP",
+            "accessories": [],
+            "submittal": "https://www.premiumchoiceseries.com/documents/Submittal/sub-pclp100xp.pdf",
+            "IOM": "https://www.premiumchoiceseries.com/documents/IOM/iom-pclpxp.pdf",
+            "brochure": "https://www.premiumchoiceseries.com/documents/Brochure/Premium-CHOICE-Series.pdf",
+            "flyer": "https://www.premiumchoiceseries.com/documents/Flyer/PCLPXP-Flyer.pdf"
+          },
+          {
+            "partID": "PCLPD100XHP",
+            "image": "image_url_for_PCLPD100XHP",
+            "description": "Product Description for PCLPD100XHP",
+            "accessories": [],
+            "submittal": "https://www.premiumchoiceseries.com/documents/Submittal/sub-pclpd100xhp.pdf",
+            "IOM": "https://www.premiumchoiceseries.com/documents/IOM/iom-pclpd100xhp.pdf",
+            "brochure": "https://www.premiumchoiceseries.com/documents/Brochure/Premium-CHOICE-Series.pdf",
+            "flyer": "https://www.premiumchoiceseries.com/documents/Flyer/PCLPD100XHP-Flyer.pdf"
+          }
+        ]
+      }
+
+  }
+  

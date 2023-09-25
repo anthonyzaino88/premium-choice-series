@@ -1,0 +1,129 @@
+.product-section .inner {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 0 0 50px;
+    text-align: center;
+    gap: 2rem;
+    margin-bottom: 2rem;
+    
+    
+}
+
+.custom-featured .headline-section {
+    margin-top: 13rem;
+    margin-bottom: 4rem;
+     padding-top: 20px;
+   
+}
+
+.headline-section {
+    text-align: center;
+}
+
+
+.product-section {
+    margin-left: 2rem;
+    margin-right: 2rem;
+    padding-top: 0rem;
+    background: linear-gradient(to bottom, #EEF8FE, rgba(255, 255, 255, 0)); /* Gradient filter */
+  }
+  
+  
+
+.page-width {
+    padding-bottom: 0.5rem;
+}
+
+
+img.drop-shadow-img {
+    object-fit:scale-down;
+    width: 300px;
+    height: 200px;
+    transition: ease-in-out .2s;
+}
+
+img.drop-shadow-img:hover {
+    transform: scale(1.1);
+}
+
+
+
+p.btn.btn-small {
+    color: #053658;
+    font-size: 25px;
+}
+
+
+a {
+text-decoration: none;
+transition: ease-in-out .2s;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #053658;
+}
+
+.drop-shadow-img {
+    filter: drop-shadow(0px 4px 8px rgba(0, 0, 0, 0.5));
+  }
+
+
+.product-hero-title {
+  font-size: 80px; color: #053658; letter-spacing:  2px; margin-top: -4.5rem;
+}
+
+.product-hero-title-two {
+  font-size: 50px; color: #053658; letter-spacing:  2px;
+}
+
+
+/* ... Your existing CSS styles ... */
+
+/* Responsive styles for smaller screens */
+@media (max-width: 1680px) {
+    .responsive-mobile-scroll {
+      display: flex;
+      gap: 2rem;
+      overflow-x: scroll; /* Enable horizontal scrolling */
+      scroll-snap-type: x mandatory; /* Enable scroll snapping */
+      max-width: 100%;
+      padding-bottom: 0.5rem;
+      margin-bottom: 2rem;
+    
+ 
+    }
+
+    .page-width {
+       display: flex;
+    }
+  
+    .inner-item  {
+      scroll-snap-align: start;
+      width: 100%;
+      margin-right: -20px; /* Adjust the margin value as needed */
+    }
+
+
+    .product-section {
+      margin-left: 0px;
+      margin-right: 0px;
+    }
+  
+    
+    
+.product-hero-title {
+  font-size: 60px; color: #053658; letter-spacing:  2px; margin-top: -4.5rem;
+}
+
+.product-hero-title-two {
+  font-size: 30px; color: #053658; letter-spacing:  2px;
+}
+
+
+
+  }
+
+
+  

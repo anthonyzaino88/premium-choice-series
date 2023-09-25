@@ -1,0 +1,49 @@
+{
+    "headers": [
+      {"label": "Part ID"},
+      {"label": "Duct (in)", "rowspan": 2},
+      {"label": "HVI Certified CFM 0.1\" SP"},
+      {"label": "HVI Certified CFM 0.25\" SP"},
+      {"label": "Sones @ 0.1\" SP"},
+      {"label": "Frequency (Hz)", "rowspan": 2},
+      {"label": "Voltage (V)", "rowspan": 2},
+      {"label": "Efficacy @ 0.1\" SP (CFM/Watts)", "rowspan": 2},
+      {"label": "Watts @ 0.1\" SP", "rowspan": 2},
+      {"label": "Current (Amps)", "rowspan": 2}
+    ],
+    "rows": [
+      [
+        {"label": "PCV50", "rowspan": 1},
+        "4",
+        "50",
+        "-",
+        "2.5",
+        "60",
+        "120",
+        "1.0",
+        "48.9",
+        "0.8"
+      ],
+      [
+        {"label": "PCV80", "rowspan": 2},
+        "4",
+        "80",
+        "60",
+        "1.5",
+        "23.8",
+        "0.2"
+      ],
+      [
+        "6",
+        "90",
+        "67",
+        "0.4",
+        "60",
+        "120",
+        "25",
+        "4.0",
+        "0.25"
+      ]
+    ]
+  }
+  

@@ -1,0 +1,220 @@
+{
+    "accessories": [
+      {
+        "partID": "PCVLEDKRDP",
+        "category" :"LED GRILLE + RADIATION DAMPER",
+        "description": "RADTIATION DAMPER FOR PC50XP",
+        "submittal" : "https://www.premiumchoiceseries.com/documents/Submittal/sub-pcvledkrdp.pdf",
+        "image" : "https://www.premiumchoiceseries.com/images/product/module/PCVLEDKRD.jpg",
+        "ParentProduct" : ["PC50XP","PCD80XHP"]
+      },
+      {
+        "partID": "PCLEDKP",
+        "category" :"LED GRILLE",
+        "description": "LED LIGHTED GRILL KIT",
+        "submittal" : "https://www.premiumchoiceseries.com/documents/Submittal/sub-pcvledkrdp.pdf",
+        "image" : "https://www.premiumchoiceseries.com/images/product/ph/pcledkp.png",
+        "ParentProduct" : ["PC80XP","PC110XP", "PC150XP", "PCHP", "PC80XFP", "PC110XFP", "PCD110XP"]
+      },
+      {
+        "partID": "PCVLEDKP-KIT",
+        "category" :"LED GRILLE",
+        "description": "PC LED LIGHTED GRILLE",
+        "image" : "https://www.solerpalau-usa.com/products/arch-img/no-image.png",
+        "ParentProduct" : ["PCD80XHP"]
+      },
+
+      {
+        "partID": "PCSCP",
+        "category" :"SPEED CONTROL",
+        "description": "PC AC BATH FAN SPEED CONTROL",
+        "image" : "https://www.premiumchoiceseries.com/images/product/module/pcscp.png",
+        "ParentProduct" : ["PC50XP", "PC80XP", "PC110XP", "PC150XP", "PCHP", "PC80XFP", "PC110XFP"]
+      },
+      
+
+      {
+        "partID": "PCSC",
+        "category" :"SPEED CONTROL",
+        "description": "PREMIUM CHOICE SPEED CONTROL",
+        "image" : "https://www.premiumchoiceseries.com/images/product/module/pcsc.jpg",
+        "submittal" : "https://www.premiumchoiceseries.com/documents/Submittal/sub-pcsc.pdf",
+        "ParentProduct" : ["PCV80","PCV80H", "PCV80F"]
+      },
+      
+      {
+        "partID": "PCLPSCP",
+        "category" :"SPEED CONTROL",
+        "description": "PCLP SPEED CONTROL PB",
+        "image" : "https://www.premiumchoiceseries.com/images/product/module/pclpscp.jpg",
+        "submittal" : "https://www.premiumchoiceseries.com/documents/Submittal/sub-pclpscp.pdf",
+        "ParentProduct" : ["PCLP80XP","PCLP100XP", "PCLPHXP", "PCLP80XPF", "PCLP100XPF"]
+      },
+      
+
+
+
+      {
+        "partID": "PCMGP",
+        "category" :"METAL GRILL",
+        "description": "PC METAL GRILLE",
+        "image" : "https://www.premiumchoiceseries.com/images/product/ph/pcmgp.png",
+        "ParentProduct" : ["PC80XP","PC110XP", "PC150XP", "PCHP", "PC80XFP", "PC110XFP", "PCD110XP", "PCLP80XP", "PCLP100XP", "PCLPHXP", "PCLP80XPF", "PCLP100XPF"]
+
+      },
+
+      {
+        "partID": "PCMRGP",
+        "category" :"MOTION GRILL",
+        "description": "PC MOTION SENSING GRILLE ONLY",
+        "image" : "https://www.premiumchoiceseries.com/images/product/module/pcmrgp.jpg",
+        "ParentProduct" : ["PCMRGP"]
+      },
+
+      {
+        "partID": "PCLEDMHKP",
+        "category" :"MOTION AND HUMIDITY GRILL KIT",
+        "description": "PC AC MOTION SENS/HUMID LED LIGHT GRILLE KIT",
+        "image" : "https://www.solerpalau-usa.com/products/arch-img/no-image.png",
+        "ParentProduct" : ["PC80XP", "PC110XP", "PC150XP", "PCHP", "PC80XFP", "PC110XFP" ]
+      
+      },
+
+
+
+      {
+        "partID": "PCDLEDMGP",
+        "category" :"MOTION AND HUMIDITY GRILL KIT",
+        "description": "PC MOTION SENSING LED LIGHTED GRILLE ONLY ",
+        "image" : "https://www.solerpalau-usa.com/products/arch-img/no-image.png",
+        "ParentProduct" : ["PCD110XP"]
+     
+      },
+
+
+
+
+      {
+        "partID": "PCLKP",
+        "category" :"CFL GRILL",
+        "description": "PC CFL LIGHT GRILLE KIT",
+        "image" : "https://www.premiumchoiceseries.com/images/product/module/pclk.jpg",
+        "ParentProduct" : ["PC80XP", "PC110XP", "PC150XP", "PCHP", "PC80XFP", "PC110XFP", "PCD110XP" ]
+
+      },
+
+      {
+        "partID": "PCVLK",
+        "category" :"CFL GRILL",
+        "description": "PC VALUE LIGHT KIT CFL",
+        "image": "https://www.premiumchoiceseries.com/images/product/module/pcvlk.jpg",
+        "ParentProduct" : ["PCV50", "PCV50H","PCV50F", "PCV80", "PCV80H", "PCV80F" ]
+      },
+
+      
+      {
+        "partID": "PCHSP",
+        "category" :"HUMIDITY SENSOR",
+        "description": "PC AC BATH FAN HUMIDITY SENSOR",
+        "image" : "https://www.premiumchoiceseries.com/images/product/module/pchsp.png",
+        "ParentProduct" : ["PC80XP", "PC110XP","PC150XP", "PCHP", "PC80XFP", "PC110XFP" ]
+      },
+
+      {
+        "partID": "PCHS",
+        "category" :"HUMIDITY SENSOR",
+        "description": "PREMIUM CHOICE HUMIDITY SENSOR",
+        "image" : "https://www.premiumchoiceseries.com/images/product/module/pchs.jpg",
+        "ParentProduct" : ["PCV50", "PCV50H","PCV50F", "PCV80", "PCV80H", "PCV80F" ]
+      },
+
+      
+      {
+        "partID": "PCLPHSP",
+        "category" :"HUMIDITY SENSOR",
+        "description": "PCLP HUMIDITY SENSOR PB",
+        "image" : "https://www.premiumchoiceseries.com/images/product/module/pclphsp.png",
+        "submittal" : "https://www.premiumchoiceseries.com/documents/Submittal/sub-pclphsp.pdf",
+        "ParentProduct" : ["PCLP80XP", "PCLP100XP","PCLPHXP", "PCLP80XPF", "PCLP100XPF"]
+      },
+
+      
+            
+      {
+        "partID": "PCVRD",
+        "category" :"RADIATION DAMPER",
+        "description": "PCV FAN RADIATION DAMPER",
+        "image" : "https://www.premiumchoiceseries.com/images/product/ph/pcvrd.png",
+        "submittal" : "https://www.premiumchoiceseries.com/documents/Submittal/sub-pcvrd.pdf",
+        "ParentProduct" : ["PC50XP", "PCD80XHP", "PCV80", "PCV80H", "PCV80F"]
+      },
+
+      {
+        "partID": "PCRD",
+        "category" :"RADIATION DAMPER",
+        "description": "PC FAN RADIATION DAMPER",
+        "image" : "https://www.premiumchoiceseries.com/images/product/ph/PCRD.png",
+        "submittal" : "https://www.premiumchoiceseries.com/documents/Submittal/sub-pcrd.pdf",
+        "ParentProduct" : ["PC80XP", "PC110XP", "PC150XP", "PCHP", "PC80XFP", "PC110XFP", "PCD110XP", "PCLPD100XHP","PCLP80XP", "PCLP100XP", "PCLPHXP", "PCLP80XPF", "PCLP100XPF"]
+      },
+
+      {
+        "partID": "PCVLEDKRDP",
+        "category" :"LED GRILLE + RADIATION DAMPER",
+        "description": "PCVLEDKRDP KIT INCLUDES PCVLEDKP AND PCVRD",
+        "image" : "https://www.premiumchoiceseries.com/images/product/ph/PCVLEDKRDP.png",
+        "ParentProduct" : ["PCD80XHP", "PC50XP"]
+      },
+
+      {
+        "partID": "PCLEDKRDP",
+        "category" :"LED GRILLE + RADIATION DAMPER",
+        "description": "PC LED LIGHT GRILLE & RADIATION DAMPER",
+        "image" : "https://www.premiumchoiceseries.com/images/product/module/pcledkrdp.png",
+        "ParentProduct" : ["PC80XP", "PC110XP", "PC150XP", "PCHP", "PC80XFP", "PC110XFP", "PCD110XP"]
+      },
+
+      {
+        "partID": "PCVLEDKRD",
+        "category" :"LED GRILLE + RADIATION DAMPER",
+        "description": "PCVLEDKRD KIT INCLUDES PCVLEDK AND PCVRD",
+        "image" : "https://www.premiumchoiceseries.com/images/product/module/PCVLEDKRD.jpg",
+        "ParentProduct" : ["PC50XP", "PCD80XHP", "PCV80", "PCV80H", "PCV80F"]
+
+      },
+
+
+
+      {
+        "partID": "PCMHKRDP",
+        "category" :"MOTION/ HUMIDITY KIT + RADIATION DAMPER",
+        "description": "PC MOTION/HUMIDITY KIT & RAD DAMPER",
+        "image" : "https://www.premiumchoiceseries.com/images/product/ph/PCMHKRDP.png",
+        "ParentProduct" : ["PC80XP", "PC110XP", "PC150XP", "PCHP", "PC80XFP", "PC110XFP"]
+      },
+
+      
+
+      {
+        "partID": "PCLPR4-3",
+        "category" :"4 TO 3 REDUCER",
+        "description": "PCLP 4IN OVAL TO 3IN ROUND REDUCER",
+        "image" : "https://www.premiumchoiceseries.com/images/photo/PCLPR4-3_1002.jpg",
+        "ParentProduct" : ["PCLPD100XHP", "PCLP80XP", "PCLP100XP", "PCLPHXP", "PCLP80XPF", "PCLP100XPF"]
+      },
+
+
+      
+      {
+        "partID": "PCMRGRDP",
+        "category" :"MOTION GRILLE + RADIATION DAMPER",
+        "description": "PC MOTION GRILLE AND RADIATION DAMPER",
+        "image" : "https://www.premiumchoiceseries.com/images/product/module/PCD110XMHRDP.jpg", 
+        "ParentProduct" : ["PCD110XP"]
+      }
+
+   
+
+    ]
+  }
+  

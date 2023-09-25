@@ -1,0 +1,93 @@
+{
+  "headers": [
+    {"label": "Part ID", "rowspan": 2},
+    {"label": "Duct (in)", "rowspan": 2},
+    {"label": "Airflow(CFM)", "colspan": 2},
+    {"label": "Sones @ 0.1\" SP", "rowspan": 2},
+    {"label": "Frequency (Hz)", "rowspan": 2},
+    {"label": "Voltage (V)", "rowspan": 2},
+    {"label": "Max Power (W)", "rowspan": 2},
+    {"label": "Efficacy @ 0.1\" SP (CFM/Watts)", "rowspan": 2},
+    {"label": "Max Current (Amps)", "rowspan": 2},
+    {"label": "Nominal Speed (RPM)", "rowspan": 2}
+  ],
+  "subHeaders": ["0.1", "0.25"],
+  "rows": [
+    [
+      {"label": "PC50XP", "rowspan": 1},
+      "4",
+      "50",
+      "36",
+      "0.4",
+      "60",
+      "120",
+      "14.6",
+      "4",
+      "0.2",
+      "745"
+    ],
+    [
+      {"label": "PC80XP", "rowspan": 2},
+      "4",
+      "80",
+      "62",
+      "0.7",
+      "60",
+      "120",
+      "25",
+      "3.7",
+      "0.25",
+      "915"
+    ],
+    [
+      "6",
+      "90",
+      "67",
+      "0.4",
+      "60",
+      "120",
+      "25",
+      "4.0",
+      "0.25",
+      "915"
+    ],
+    [
+      {"label": "PC110XP", "rowspan": 2},
+      "4",
+      "100",
+      "76",
+      "0.9",
+      "60",
+      "120",
+      "30",
+      "3.8",
+      "0.35",
+      "930"
+    ],
+    [
+      "6",
+      "120",
+      "85",
+      "0.3",
+      "60",
+      "120",
+      "30",
+      "4.3",
+      "0.35",
+      "930"
+    ],
+    [
+      {"label": "PC150XP", "rowspan": 1},
+      "6",
+      "150",
+      "115",
+      "0.5",
+      "60",
+      "120",
+      "38",
+      "4.6",
+      "0.35",
+      "1,015"
+    ]
+  ]
+}
