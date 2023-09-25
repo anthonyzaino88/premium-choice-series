@@ -11,14 +11,15 @@ Extracted all hard-coded data and centralized it within JSON files, allowing for
 Revamped all static pages, implementing dynamic data fetching and rendering mechanisms to display content responsively and accurately, adapting to user interactions in real time.
 
 #Features:
-#Modularity:
+
+Modularity:
 The development approach promotes component reusability and maintainability, facilitating easier future enhancements and adaptations.
 
-#Responsiveness:
+Responsiveness:
 The redesigned platform ensures optimal user experience across a variety of devices and screen sizes, providing intuitive navigation and interaction.
 
-#Efficient Data Handling:
+Efficient Data Handling:
 The centralization of data within JSON structures allows for more efficient, streamlined data retrieval and manipulation, enhancing the platform's performance and reliability.
 
-#Outcome:
+Outcome:
 This redevelopment has significantly elevated the website's functionality, usability, and adaptability, laying a solid foundation for future expansions and improvements. It stands as a testament to the potential of leveraging dynamic web components and structured data management to revitalize web platforms.
