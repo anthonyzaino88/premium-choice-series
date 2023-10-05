@@ -48,7 +48,7 @@ class ResponsiveNavigation extends HTMLElement {
     // Create a <style> element for the styles (you can keep this)
     const stylesLink = document.createElement("link");
     stylesLink.setAttribute("rel", "stylesheet");
-    stylesLink.setAttribute("href", "../styles/nav.css"); // Adjust the path as needed
+    stylesLink.setAttribute("href", "./styles/nav.css"); // Adjust the path as needed
     this.shadowRoot.appendChild(stylesLink);
 
     this.jsonData = [];
